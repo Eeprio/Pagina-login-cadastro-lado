@@ -83,14 +83,13 @@ p{
 
 .login{
     border: 2px solid white;
-    padding: 4vh;
+    padding: 3vh;
     border-left: none;
     background-color: white;
     color: #715e5e;
 }
 
 .btn{
-    margin-top: 1vh;
     width: 20vh;
     height: 5vh;
     border-radius: 10px;
@@ -100,7 +99,7 @@ p{
 
 .btn-login{
     background-color: transparent;
-    border: #3a455e 2px solid;
+    border: #3a455e 2px solid; 
 }
 
 .btn-cadastro{
